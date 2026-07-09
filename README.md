@@ -1,5 +1,7 @@
 # Projeto-DIO-NotebookLM
 
+Link: <https://notebooklm.google.com/notebook/caa247fc-bb8e-4881-8085-94c9de2015e4>
+
 **Contexto e objetivos**
 Para criação do projeto no NotebookLM, foi escolhido o tema "hedge", que trata-se de uma ferramenta financeira para proteção de uma empresa contra oscilações e variações de mercado. Este material alinha-se com um objetivo de desenvolvimento profissional de especializar-me na exportação de commodities agrícolas. O material servirá como auxiliar no estudo de conceitos importantes e na correlação desta teoria com a prática profissional da área em que estou buscando especialização. 
 
